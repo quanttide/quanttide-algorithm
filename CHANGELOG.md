@@ -4,6 +4,7 @@
 
 ### 新增
 
+- 注册子模块：`data/insight`（算法工程洞察，quanttide-insight-of-algorithm-engineering），收录首条洞察：算法候选的入口
 - 注册子模块：`data/intention`（算法工程意图，quanttide-intention-of-algorithm-engineering）
 
 ## [0.1.0] - 2026-10-01
