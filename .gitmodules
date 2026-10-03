@@ -1,4 +1,4 @@
 [submodule "data/context"]
 	path = data/context
-	url = git@github.com:quanttide/quanttide-context-of-algorithm-engineering.git
+	url = https://github.com/quanttide/quanttide-context-of-algorithm-engineering.git
 	branch = main
