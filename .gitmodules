@@ -10,3 +10,7 @@
 	path = data/insight
 	url = https://github.com/quanttide/quanttide-insight-of-algorithm-engineering.git
 	branch = main
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-algorithm-engineering.git
+	branch = main

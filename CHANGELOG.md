@@ -4,6 +4,7 @@
 
 ### 新增
 
+- 注册子模块：`data/profile`（算法工程档案，quanttide-profile-of-algorithm-engineering），收录首个资产档案：资产分类器
 - 注册子模块：`data/insight`（算法工程洞察，quanttide-insight-of-algorithm-engineering），收录首条洞察：算法候选的入口
 - 注册子模块：`data/intention`（算法工程意图，quanttide-intention-of-algorithm-engineering）
 
