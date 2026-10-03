@@ -21,6 +21,7 @@ quanttide-algorithm 是量潮知识管理体系中的算法工程模块，专注
 | 路径 | 说明 |
 |------|------|
 | `data/context` | 算法工程语境 (git submodule → quanttide-context-of-algorithm-engineering) |
+| `data/intention` | 算法工程意图 (git submodule → quanttide-intention-of-algorithm-engineering) |
 
 ## 相关链接
 

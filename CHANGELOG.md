@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### 新增
+
+- 注册子模块：`data/intention`（算法工程意图，quanttide-intention-of-algorithm-engineering）
+
 ## [0.1.0] - 2026-10-01
 
 ### 初始化

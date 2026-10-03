@@ -2,3 +2,7 @@
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-algorithm-engineering.git
 	branch = main
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-algorithm-engineering.git
+	branch = main
