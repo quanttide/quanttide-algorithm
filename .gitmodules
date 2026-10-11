@@ -14,3 +14,6 @@
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-algorithm-engineering.git
 	branch = main
+[submodule "examples/quanttide-algorithm-lab"]
+	path = examples/quanttide-algorithm-lab
+	url = https://github.com/quanttide/quanttide-algorithm-lab.git
